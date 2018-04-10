@@ -6,9 +6,11 @@ template: article.jade
 ---
 
 Rules are made to be broken.
-<br>But only a fool breaks every rule
-<br>And I was a fool. For way a very long time...
+<br>But only a fool breaks every rule. And I was a fool. For way a very long time...
+
 ---
+
+
 
 
 
