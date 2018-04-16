@@ -1,11 +1,11 @@
 ---
-title: Look at your problems as challenges
+title: For every so called problem
 author: Van
 date: 2017-06-05
 template: article.jade
 ---
 
-For every so called problem => model it as a challenge then it becomes a game => share your game as playing alone is very boring. Get the right people to involve as the majority of people have no games to play at all and are dying for a good adventure. Think of every problem you have this way and watch how your world changes.
+Model it as a challenge then it becomes a game <br> Share your game as playing alone is very boring. <br> Get the right people to involve as the majority of people have no games to play at all and are dying for a good adventure. <br> Think of every problem you have this way and watch how your world changes.
 
 ---
 
