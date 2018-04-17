@@ -227,6 +227,10 @@ footer .copy, footer .copy a {
   letter-spacing: 1px;
 }
 
+.more {
+  display: none;
+}
+
 /* archive */
 
 .archive {

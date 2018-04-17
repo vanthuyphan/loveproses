@@ -5,7 +5,7 @@ date: 2017-10-12
 template: article.jade
 ---
 
-Van Phan: what is love?
+<br> Van Phan: what is love?
 <br> Lord: that’s not profound enough
 <br> Van Phan: what is the purpose of life?
 <br> Lord: stupid

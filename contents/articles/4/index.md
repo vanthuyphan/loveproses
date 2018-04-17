@@ -1,5 +1,5 @@
 ---
-title: Lord, do you love every of your creation the same?
+title: Lord, do you love every of your creations the same?
 author: Van
 date: 2017-11-12
 template: article.jade

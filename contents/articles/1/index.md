@@ -5,9 +5,9 @@ date: 2017-21-08
 template: article.jade
 ---
 
-Lord: Which part of yourself?
-Van: every part
-Lord: that’s impossible. I give you the same dose of ugliness everyday. <br> Must be something with your perception.
+<br> Lord: Which part of yourself?
+<br> Van: every part
+<br> Lord: that’s impossible. I give you the same dose of ugliness everyday. <br> Must be something with your perception.
 
 ---
 
