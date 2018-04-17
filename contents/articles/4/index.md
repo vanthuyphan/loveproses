@@ -1,7 +1,7 @@
 ---
 title: Lord, do you love every of your creations the same?
 author: Van
-date: 01-11-2017
+date: 11-01-2017
 template: article.jade
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Lord, would I ever be able to understand time space?
 author: Van
-date: 06-03-2017
+date: 03-06-2017
 template: article.jade
 ---
 

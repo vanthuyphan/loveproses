@@ -1,7 +1,7 @@
 ---
 title: For every so called problem
 author: Van
-date: 08-04-2018
+date: 04-08-2018
 template: article.jade
 ---
 
