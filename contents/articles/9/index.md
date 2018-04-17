@@ -1,11 +1,11 @@
 ---
-title: Lord, 
+title: Lord, I think I have a commitment problem
 author: Van
-date: 06-2-2017
+date: 01-02-2017
 template: article.jade
 ---
 
-<br> Lord: Yes. Those are the ones coming to the bar and say "surprise me". But when I do, they ask for their money back.
+Lord: Then don't commit. Why do you think I create all the possibilities.
 
 ---
 
