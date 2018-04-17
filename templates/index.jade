@@ -13,9 +13,6 @@ block content
       section.content
         if article.intro.length > 0
           != typogr(article.intro).typogrify()
-        if article.hasMore
-          p.more
-            a(href=article.url) more
 
 block prepend footer
   div.nav
