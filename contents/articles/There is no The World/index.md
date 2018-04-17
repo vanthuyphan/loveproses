@@ -6,7 +6,7 @@ template: article.jade
 ---
 
 <br> What you call the world is just an illusion that springs out from a matrix of information. <br> And everyone has a different illusion. 
-<br> Keep this in mind whenever you have a conversation. <br> Whenever you listen to someone, remember that you’re listing to him describing his world. <br> There is no need for correction. 
+<br> Keep this in mind whenever you have a conversation. <br> Whenever you listen to someone, remember that you’re listening to him describing his world. <br> There is no need for correction. 
 
 
 ---
