@@ -5,7 +5,7 @@ date: 02-14-2017
 template: article.jade
 ---
 
-<br> Lord: NO. But you will love someone enough that you willing to shit yourself.
+Lord: NO. But you will love someone enough that you willing to shit yourself.
 
 ---
 

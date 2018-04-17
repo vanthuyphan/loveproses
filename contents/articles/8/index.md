@@ -1,7 +1,7 @@
 ---
 title: Lord, are gay people special people?
 author: Van
-date: 06-2-2017
+date: 06-02-2017
 template: article.jade
 ---
 
