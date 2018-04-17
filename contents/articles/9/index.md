@@ -1,5 +1,5 @@
 ---
-title: Lord, are gay people special people?
+title: Lord, 
 author: Van
 date: 06-2-2017
 template: article.jade
