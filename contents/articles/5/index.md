@@ -5,19 +5,19 @@ date: 05-13-2017
 template: article.jade
 ---
 
-<br> Van Phan: what is love?
-<br> Lord: that’s not profound enough
-<br> Van Phan: what is the purpose of life?
-<br> Lord: stupid
-<br> Van Phan: how to get out of this game?
-<br> Lord: stupid
-<br> Van Phan: what is your name?
-<br> Lord: now we’re talking. It’s Lord Byron.
-<br> Van Phan: like the poet?
+<br> Van Phan: What is love?
+<br> Lord: That’s not profound enough
+<br> Van Phan: What is the purpose of life?
+<br> Lord: Stupid
+<br> Van Phan: How to get out of this game?
+<br> Lord: Stupid
+<br> Van Phan: What is your name?
+<br> Lord: Now we’re talking. It’s Lord Byron.
+<br> Van Phan: Like the poet?
 <br> Lord: Where do you think he got his name from
 <br> Van Phan: So you talked to him?
 <br> Lord: Let’s just say “She walks in beauty” is not about a woman
-<br> Van Phan: damn!!
+<br> Van Phan: Damn!!
 
 ---
 
