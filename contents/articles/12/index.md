@@ -1,7 +1,7 @@
 ---
 title: Lord, how does it feel to be free from limitations?
 author: Van
-date: 16-12-2017
+date: 12-16-2017
 template: article.jade
 ---
 
