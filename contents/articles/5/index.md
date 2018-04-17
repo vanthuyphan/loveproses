@@ -1,7 +1,7 @@
 ---
 title: Van, I’m bored. Ask something profound
 author: Van
-date: 2017-10-12
+date: 05-13-2017
 template: article.jade
 ---
 

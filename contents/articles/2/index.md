@@ -1,7 +1,7 @@
 ---
-title: Why don’t you create everything equally beautiful
+title: Lord, Why don’t you create everything equally beautiful
 author: Van
-date: 2017-12-15
+date: 10-21-2017
 template: article.jade
 ---
 

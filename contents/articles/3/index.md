@@ -1,7 +1,7 @@
 ---
-title: What is enlightenment?
+title: Lord, What is enlightenment?
 author: Van
-date: 2018-03-12
+date: 20-03-2018
 template: article.jade
 ---
 

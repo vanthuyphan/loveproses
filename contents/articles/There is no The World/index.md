@@ -1,7 +1,7 @@
 ---
 title: Make a habit of not using "THE world" and soon you will find yourself understand this game more.
 author: Van
-date: 2017-05-05
+date: 25-12-2018
 template: article.jade
 ---
 

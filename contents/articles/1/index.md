@@ -1,7 +1,7 @@
 ---
 title: Lord, why I find myself so ugly sometimes?
 author: Van
-date: 2017-21-08
+date: 12-12-2017
 template: article.jade
 ---
 
