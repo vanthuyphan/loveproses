@@ -1,9 +1,9 @@
 {
   "locals": {
-    "url": "http://localhost:8080",
+    "url": "http://loveproses.com",
     "name": "Love Proses",
     "owner": "Van",
-    "description": "...and then you go and say something stupid like I love you"
+    "description": ""
   },
   "plugins": [
     "./plugins/paginator.coffee"
